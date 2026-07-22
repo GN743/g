@@ -60,6 +60,7 @@ nav img{
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
+    height: 60%;
 }
 .text-box h1{
     font-size: 62px;
